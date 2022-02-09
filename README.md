@@ -4,13 +4,13 @@ In this project tutorial, we will be predicting whether a particular transaction
 
 We will be using different algorithms and models to arrive at our answer. Example:
 
-K-Nearest Neighbour,
-Logistic Regression,
-Support Vector Machine,
-Random Forest Classifier,
-Naive Bayes,
-GridSearchCV,
-AUC
+K-Nearest Neighbour,\
+Logistic Regression,\
+Support Vector Machine,\
+Random Forest Classifier,\
+Naive Bayes,\
+GridSearchCV,\
+AUC,\
 XGBoost
 
 Data can be found [here.](https://www.kaggle.com/mlg-ulb/creditcardfraud)
